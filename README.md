@@ -16,5 +16,5 @@ Using 'mice' package in R was very easy, and I had little trouble generating imp
 
 Where I ran into trouble was using 'mice' and 'lavaan' to run a mediation analysis using my imputed data sets. Here is how I solved it- I hope it helps!
 
-See blog post here: https://jessierayebauer.wixsite.com/jrbauer/single-post/2017/09/16/multipleimputationmediation
-See Jupyter notebook here:
+See blog post [here](https://jessierayebauer.wixsite.com/jrbauer/single-post/2017/09/16/multipleimputationmediation)
+See Jupyter notebook here
