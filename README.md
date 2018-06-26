@@ -1,4 +1,4 @@
-# MICE_R
+# Multiple-Imputation-R
 
 This file runs through an example of multiple imputation using chained equations (MICE) and mediation analysis in R. The dataset (airquality) is already built into R. 
 
